@@ -10,6 +10,7 @@ class ChattyStudent < Student
      str = "Pick me!"
      10.times do
        puts str
+     end
   end
   
 end
